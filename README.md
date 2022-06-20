@@ -4,3 +4,7 @@ In this repository I will be uploading different answers for several coding exce
 ## JavaScript
 ### Hard
 - Verifying a sudoku
+
+## React.js
+### Medium
+- Create a small React app that has a form that once submited fills a new row on a table. For this excersice you need to ensure you have React.js installed and in your path.
